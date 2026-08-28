@@ -1,0 +1,20 @@
+{
+  "items": [
+    {
+      "package_name": "com.xyvak.sonic_collection",
+      "chance": 0.30,
+      "label": "کالکشن کامل بازی‌های سونیک سگا",
+      "button_text": "نصب از مایکت",
+      "icon_url": "https://username.github.io/core-manifest/assets/icons/sonic_icon.webp",
+      "image_url": "https://username.github.io/core-manifest/assets/banners/sonic_full.webp"
+    },
+    {
+      "package_name": "com.xyvak.lionking",
+      "chance": 0.20,
+      "label": "بازی خاطره‌انگیز شیرشاه",
+      "button_text": "نصب از مایکت",
+      "icon_url": "https://username.github.io/core-manifest/assets/icons/lion_icon.webp",
+      "image_url": "https://username.github.io/core-manifest/assets/banners/lion_full.webp"
+    }
+  ]
+}
