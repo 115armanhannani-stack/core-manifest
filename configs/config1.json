@@ -1,1 +1,20 @@
-
+{
+  "items": [
+    {
+      "package_name": "com.xyvak.shoresh3",
+      "chance": 0.30,
+      "label": "بازی نوستالژیک شورش در شهر ۳",
+      "button_text": "دریافت رایگان",
+      "icon_url": "https://username.github.io/core-manifest/assets/icons/shoresh_icon.webp",
+      "image_url": "https://username.github.io/core-manifest/assets/banners/shoresh_full.webp"
+    },
+    {
+      "package_name": "com.xyvak.barnout",
+      "chance": 0.20,
+      "label": "بارنوت لجند سگا",
+      "button_text": "مشاهده در مایکت",
+      "icon_url": "https://username.github.io/core-manifest/assets/icons/barnout_icon.webp",
+      "image_url": "https://username.github.io/core-manifest/assets/banners/barnout_full.webp"
+    }
+  ]
+}
