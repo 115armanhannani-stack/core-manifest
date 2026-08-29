@@ -1,28 +1,12 @@
 { 
   "items": [
     {
-      "package_name": "appinventor.ai_112armanhannani.Insect_repellent",
-      "chance": 0.20,
-      "label": "جعبه ابزار فرکانس و سلامت ذهن",
+      "package_name": "com.xyvak.hologram",
+      "chance": 0.50,
+      "label": "ارتباط با افراد نزدیک بدون اینترنت",
       "button_text": "نصب از مایکت",
-      "icon_url": "https://username.github.io/core-manifest/assets/icons/freq_icon.webp",
-      "image_url": "https://username.github.io/core-manifest/assets/banners/freq_banner.webp"
-    },
-    {
-      "package_name": "com.xyvak.shoresh3",
-      "chance": 0.25,
-      "label": "شورش در شهر ۳ (با کدهای نسوز)",
-      "button_text": "نصب از مایکت",
-      "icon_url": "https://username.github.io/core-manifest/assets/icons/shoresh_icon.webp",
-      "image_url": "https://username.github.io/core-manifest/assets/banners/shoresh_banner.webp"
-    },
-    {
-      "package_name": "com.xyvak.mortal_kombat",
-      "chance": 0.20,
-      "label": "مورتال کامبت اولتیماتوم",
-      "button_text": "نصب از مایکت",
-      "icon_url": "https://username.github.io/core-manifest/assets/icons/mk_icon.webp",
-      "image_url": "https://username.github.io/core-manifest/assets/banners/mk_banner.webp"
+      "icon_url": "https://115armanhannani-stack.github.io/core-manifest/assets/icons/hologram-ic-banner.webp",
+      "image_url": "https://115armanhannani-stack.github.io/core-manifest/assets/banners/hologram-banner.webp"
     }
   ]
 }
