@@ -1,20 +1,12 @@
 {
   "items": [
     {
-      "package_name": "com.xyvak.shoresh3",
-      "chance": 0.30,
+      "package_name": "com.xyvak.hologram",
+      "chance": 0.80,
       "label": "ارتباط با افراد نزدیک بدون اینترنت",
       "button_text": "نصب از مایکت",
       "icon_url": "https://115armanhannani-stack.github.io/core-manifest/assets/icons/hologram-ic-banner.webp",
-      "image_url": "https://username.github.io/core-manifest/assets/banners/shoresh_full.webp"
-    },
-    {
-      "package_name": "com.xyvak.barnout",
-      "chance": 0.20,
-      "label": "بارنوت لجند سگا",
-      "button_text": "مشاهده در مایکت",
-      "icon_url": "https://username.github.io/core-manifest/assets/icons/barnout_icon.webp",
-      "image_url": "https://username.github.io/core-manifest/assets/banners/barnout_full.webp"
+      "image_url": "https://115armanhannani-stack.github.io/core-manifest/assets/banners/hologram-poster.webp"
     }
   ]
 }
