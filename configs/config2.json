@@ -2,7 +2,7 @@
   "items": [
     {
       "package_name": "com.xyvak.hologram",
-      "chance": 0.50,
+      "chance": 0.10,
       "label": "ارتباط با افراد نزدیک بدون اینترنت",
       "button_text": "نصب از مایکت",
       "icon_url": "https://115armanhannani-stack.github.io/core-manifest/assets/icons/hologram_ic1.webp",
