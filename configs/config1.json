@@ -2,11 +2,20 @@
   "items": [
     {
       "package_name": "com.xyvak.hologram",
-      "chance": 0.80,
+      "chance": 0.50,
       "label": "ارتباط با افراد نزدیک بدون اینترنت",
       "button_text": "نصب از مایکت",
       "icon_url": "https://115armanhannani-stack.github.io/core-manifest/assets/icons/hologram_ic1.webp",
       "image_url": "https://115armanhannani-stack.github.io/core-manifest/assets/banners/hologram-poster.webp"
+    },
+    {
+      "package_name": "om.xyvak.agecalculator",
+      "chance": 0.50,
+      "label": "محاسبه دقیق سن و اختلاف سن",
+      "button_text": "نصب از مایکت",
+      "icon_url": "https://115armanhannani-stack.github.io/core-manifest/assets/icons/age_calculator_ic_1x1.webp",
+      "image_url": "https://115armanhannani-stack.github.io/core-manifest/assets/banners/age_calculator_poster_9x16.webp"
     }
+    
   ]
 }
