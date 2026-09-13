@@ -9,7 +9,7 @@
       "image_url": "https://115armanhannani-stack.github.io/core-manifest/assets/banners/hologram-poster.webp"
     },
     {
-      "package_name": "om.xyvak.agecalculator",
+      "package_name": "com.xyvak.agecalculator",
       "chance": 0.50,
       "label": "محاسبه دقیق سن و اختلاف سن",
       "button_text": "نصب از مایکت",
